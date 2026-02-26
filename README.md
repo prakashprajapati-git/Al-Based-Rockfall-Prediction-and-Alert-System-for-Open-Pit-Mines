@@ -37,6 +37,12 @@ Our system is a full-stack application composed of a powerful Python backend and
 
 ---
 
+## 🎥 Project Demonstration
+
+[![Watch RockGuard AI Demo](screenshots/rockguard_ai_main_dashboard.png)](https://youtu.be/nMxN4Vdj07Y?si=_5RddoMzb89MbRBH)
+
+▶️ Click the image above to watch the full demo.
+
 ## 🏃 How to Run This Project
 
 ### **Backend Setup**
